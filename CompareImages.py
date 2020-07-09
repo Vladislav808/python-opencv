@@ -1,3 +1,5 @@
+""" email: vldslv.g@mail.ru """
+
 import tkinter as tk
 from simpletk import *
 import cv2
